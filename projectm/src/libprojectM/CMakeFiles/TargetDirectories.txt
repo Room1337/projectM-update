@@ -1,0 +1,4 @@
+/Users/pierre/Documents/Code/projectm/src/libprojectM/MilkdropPresetFactory/CMakeFiles/MilkdropPresetFactory.dir
+/Users/pierre/Documents/Code/projectm/src/libprojectM/NativePresetFactory/CMakeFiles/NativePresetFactory.dir
+/Users/pierre/Documents/Code/projectm/src/libprojectM/Renderer/CMakeFiles/Renderer.dir
+/Users/pierre/Documents/Code/projectm/src/libprojectM/CMakeFiles/projectM.dir

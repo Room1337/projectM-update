@@ -1,2 +1,2 @@
 Update to projectm to get it to libprojectm to build on OS X and hopefully IOS.
-See http://sourceforge.net/projects/projectm for original effort and its svn repository.
+See http://sourceforge.net/projects/projectm for original effort and its svn repository. (Note, to date, I haven't been brazen enough to attempt a svn2git import).
